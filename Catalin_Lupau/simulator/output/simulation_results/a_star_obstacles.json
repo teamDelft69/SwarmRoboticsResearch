@@ -1,0 +1,11 @@
+{
+    "name": "a_star_obstacles",
+    "timestamp": "05_27_2022-14_13_08",
+    "associated_config_file": "a_star_boids_obstacles.json",
+    "result": {
+        "num_agents": 6,
+        "num_agents_that_reached_targets": 5,
+        "delta_time_target": 210,
+        "total_time": 1000
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "explosive_boids",
+    "timestamp": "05_30_2022-13_26_52",
+    "associated_config_file": "explosive_boids_with_projectiles.json",
+    "result": {
+        "num_agents": 6,
+        "num_agents_that_reached_targets": 0,
+        "delta_time_target": 0,
+        "total_time": 1000
+    }
+}

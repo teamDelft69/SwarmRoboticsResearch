@@ -1,0 +1,11 @@
+{
+    "name": "evasive_test",
+    "timestamp": "06_18_2022-23_51_29",
+    "associated_config_file": "predator_avoidance_against_center_steering/evasive.json",
+    "result": {
+        "num_agents": 6,
+        "num_agents_that_reached_targets": 5,
+        "delta_time_target": 18,
+        "total_time": 97
+    }
+}

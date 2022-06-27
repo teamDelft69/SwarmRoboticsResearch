@@ -1,0 +1,5 @@
+{
+  "simulation_config_files": ["train_nn_boid.json"],
+  "num_repetitions": 5,
+  "saved_repetitions":[]
+}

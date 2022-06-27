@@ -1,0 +1,11 @@
+{
+    "name": "split_boids",
+    "timestamp": "05_30_2022-14_30_24",
+    "associated_config_file": "split_steer_away_boids_with_projectiles.json",
+    "result": {
+        "num_agents": 6,
+        "num_agents_that_reached_targets": 5,
+        "delta_time_target": 24,
+        "total_time": 98
+    }
+}

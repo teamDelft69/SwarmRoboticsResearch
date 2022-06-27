@@ -1,0 +1,50 @@
+{
+    "name": "predator_avoidance_against_center_steering_100",
+    "timestamp": "06_19_2022-03_10_07",
+    "config_files": [
+        "predator_avoidance_against_center_steering/baseline.json",
+        "predator_avoidance_against_center_steering/evasive.json",
+        "predator_avoidance_against_center_steering/explode.json",
+        "predator_avoidance_against_center_steering/explode_evasive.json",
+        "predator_avoidance_against_center_steering/jump.json",
+        "predator_avoidance_against_center_steering/split.json",
+        "predator_avoidance_against_center_steering/split_evasive.json"
+    ],
+    "names": [
+        "predator_avoidance_against_center_steering/baseline",
+        "predator_avoidance_against_center_steering/evasive",
+        "predator_avoidance_against_center_steering/explode",
+        "predator_avoidance_against_center_steering/explode_evasive",
+        "predator_avoidance_against_center_steering/jump",
+        "predator_avoidance_against_center_steering/split",
+        "predator_avoidance_against_center_steering/split_evasive"
+    ],
+    "num_repetitions": 100,
+    "avg_agent_success": [
+        0.5449999999999998,
+        0.8949999999999997,
+        0.6266666666666668,
+        0.8866666666666663,
+        0.5199999999999999,
+        0.6083333333333334,
+        0.9216666666666665
+    ],
+    "avg_time": [
+        71.71,
+        93.77,
+        89.45,
+        120.6,
+        76.0,
+        111.81,
+        138.14
+    ],
+    "avg_delta_time": [
+        2.82,
+        17.68,
+        6.45,
+        17.55,
+        3.72,
+        29.77,
+        23.82
+    ]
+}

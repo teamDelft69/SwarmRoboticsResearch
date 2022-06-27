@@ -1,0 +1,25 @@
+{
+    "name": "predator_against_baseline",
+    "timestamp": "06_18_2022-20_46_16",
+    "config_files": [
+        "predator_algorithm_against_baseline/center_steering.json",
+        "predator_algorithm_against_baseline/png.json"
+    ],
+    "names": [
+        "predator_algorithm_against_baseline/center_steering",
+        "predator_algorithm_against_baseline/png"
+    ],
+    "num_repetitions": 5,
+    "avg_agent_success": [
+        0.3333333333333333,
+        0.6333333333333334
+    ],
+    "avg_time": [
+        85.0,
+        85.2
+    ],
+    "avg_delta_time": [
+        3.6,
+        6.0
+    ]
+}

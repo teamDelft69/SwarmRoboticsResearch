@@ -1,0 +1,11 @@
+{
+    "name": "steer_away_directed_whirlwind",
+    "timestamp": "06_07_2022-11_46_26",
+    "associated_config_file": "steer_away_directed_whirlwind_boids.json",
+    "result": {
+        "num_agents": 6,
+        "num_agents_that_reached_targets": 6,
+        "delta_time_target": 14,
+        "total_time": 98
+    }
+}

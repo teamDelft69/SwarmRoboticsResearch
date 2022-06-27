@@ -1,0 +1,50 @@
+{
+    "name": "predator_avoidance_against_png_1000",
+    "timestamp": "06_19_2022-04_17_45",
+    "config_files": [
+        "predator_avoidance_against_png/baseline.json",
+        "predator_avoidance_against_png/evasive.json",
+        "predator_avoidance_against_png/explode.json",
+        "predator_avoidance_against_png/explode_evasive.json",
+        "predator_avoidance_against_png/jump.json",
+        "predator_avoidance_against_png/split.json",
+        "predator_avoidance_against_png/split_evasive.json"
+    ],
+    "names": [
+        "predator_avoidance_against_png/baseline",
+        "predator_avoidance_against_png/evasive",
+        "predator_avoidance_against_png/explode",
+        "predator_avoidance_against_png/explode_evasive",
+        "predator_avoidance_against_png/jump",
+        "predator_avoidance_against_png/split",
+        "predator_avoidance_against_png/split_evasive"
+    ],
+    "num_repetitions": 1000,
+    "avg_agent_success": [
+        0.13283333333333364,
+        0.22383333333333233,
+        0.7943333333333356,
+        0.6553333333333344,
+        0.1320000000000003,
+        0.6439999999999997,
+        0.5273333333333327
+    ],
+    "avg_time": [
+        61.238,
+        134.567,
+        90.52,
+        162.254,
+        65.081,
+        112.636,
+        195.326
+    ],
+    "avg_delta_time": [
+        0.596,
+        3.311,
+        6.322,
+        17.619,
+        0.714,
+        30.411,
+        42.384
+    ]
+}

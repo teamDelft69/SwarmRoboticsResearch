@@ -1,0 +1,11 @@
+{
+    "name": "jump_test",
+    "timestamp": "06_19_2022-01_03_43",
+    "associated_config_file": "predator_avoidance_against_center_steering/jump.json",
+    "result": {
+        "num_agents": 6,
+        "num_agents_that_reached_targets": 4,
+        "delta_time_target": 6,
+        "total_time": 76
+    }
+}

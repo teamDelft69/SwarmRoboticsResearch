@@ -1,0 +1,5 @@
+{
+  "simulation_config_files": ["steer_away_boids_obstacles.json", "steer_away_boids_with_projectiles.json"],
+  "num_repetitions": 100,
+  "saved_repetitions": [100]
+}

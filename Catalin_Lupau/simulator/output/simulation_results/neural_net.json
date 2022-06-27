@@ -1,0 +1,11 @@
+{
+    "name": "neural_net",
+    "timestamp": "06_06_2022-02_54_19",
+    "associated_config_file": "neural_boids_with_projectiles.json",
+    "result": {
+        "num_agents": 6,
+        "num_agents_that_reached_targets": 5,
+        "delta_time_target": 5,
+        "total_time": 77
+    }
+}

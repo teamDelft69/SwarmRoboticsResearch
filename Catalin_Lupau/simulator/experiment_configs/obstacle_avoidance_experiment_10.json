@@ -1,0 +1,5 @@
+{
+  "simulation_config_files": ["obstacle_avoidance_10/baseline.json", "obstacle_avoidance_10/outwards_field.json", "obstacle_avoidance_10/spiral_field.json", "obstacle_avoidance_10/directed_spiral_field.json", "obstacle_avoidance_10/steer_away.json", "obstacle_avoidance_10/kitchensink.json"],
+  "num_repetitions": 1000,
+  "saved_repetitions": []
+}

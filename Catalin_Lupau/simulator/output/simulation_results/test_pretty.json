@@ -1,0 +1,11 @@
+{
+    "name": "test_pretty",
+    "timestamp": "05_03_2022-12_23_52",
+    "associated_config_file": "test.json",
+    "result": {
+        "num_agents": 7,
+        "num_agents_that_reached_targets": 0,
+        "delta_time_target": 0,
+        "total_time": 50
+    }
+}

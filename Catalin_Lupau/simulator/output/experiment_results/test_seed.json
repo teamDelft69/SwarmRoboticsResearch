@@ -1,0 +1,45 @@
+{
+    "name": "test_seed",
+    "timestamp": "06_18_2022-18_35_57",
+    "config_files": [
+        "obstacle_avoidance_10/baseline.json",
+        "obstacle_avoidance_10/outwards_field.json",
+        "obstacle_avoidance_10/spiral_field.json",
+        "obstacle_avoidance_10/directed_spiral_field.json",
+        "obstacle_avoidance_10/steer_away.json",
+        "obstacle_avoidance_10/kitchensink.json"
+    ],
+    "names": [
+        "obstacle_avoidance_10/baseline",
+        "obstacle_avoidance_10/outwards_field",
+        "obstacle_avoidance_10/spiral_field",
+        "obstacle_avoidance_10/directed_spiral_field",
+        "obstacle_avoidance_10/steer_away",
+        "obstacle_avoidance_10/kitchensink"
+    ],
+    "num_repetitions": 5,
+    "avg_agent_success": [
+        0.3,
+        0.9666666666666668,
+        1.0,
+        1.0,
+        0.7666666666666667,
+        1.0
+    ],
+    "avg_time": [
+        73.0,
+        79.2,
+        84.8,
+        93.4,
+        79.0,
+        100.8
+    ],
+    "avg_delta_time": [
+        3.4,
+        7.6,
+        11.4,
+        17.0,
+        6.4,
+        22.8
+    ]
+}

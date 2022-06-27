@@ -1,0 +1,25 @@
+{
+    "name": "predator_against_split",
+    "timestamp": "06_18_2022-20_46_54",
+    "config_files": [
+        "predator_algorithm_against_split/center_steering.json",
+        "predator_algorithm_against_split/png.json"
+    ],
+    "names": [
+        "predator_algorithm_against_split/center_steering",
+        "predator_algorithm_against_split/png"
+    ],
+    "num_repetitions": 5,
+    "avg_agent_success": [
+        0.5,
+        0.5666666666666667
+    ],
+    "avg_time": [
+        93.4,
+        95.2
+    ],
+    "avg_delta_time": [
+        14.0,
+        21.2
+    ]
+}

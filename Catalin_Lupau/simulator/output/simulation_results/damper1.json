@@ -1,0 +1,11 @@
+{
+    "name": "damper1",
+    "timestamp": "05_14_2022-20_08_08",
+    "associated_config_file": "damper1.json",
+    "result": {
+        "num_agents": 7,
+        "num_agents_that_reached_targets": 0,
+        "delta_time_target": 0,
+        "total_time": 100.0
+    }
+}

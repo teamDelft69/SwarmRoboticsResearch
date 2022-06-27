@@ -1,0 +1,11 @@
+{
+    "name": "split_test",
+    "timestamp": "06_19_2022-01_01_54",
+    "associated_config_file": "predator_avoidance_against_center_steering/jump.json",
+    "result": {
+        "num_agents": 6,
+        "num_agents_that_reached_targets": 3,
+        "delta_time_target": 3,
+        "total_time": 71
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "name": "experiment1",
+    "timestamp": "05_26_2022-21_31_54",
+    "config_files": [
+        "boids_obstacles.json",
+        "boids_with_projectiles.json"
+    ],
+    "names": [
+        "boids_obstacles",
+        "boids_with_projectiles"
+    ],
+    "num_repetitions": 5,
+    "avg_agent_success": [
+        0.6,
+        0.5333333333333333
+    ],
+    "avg_time": [
+        62.4,
+        75.4
+    ],
+    "avg_delta_time": [
+        3.8,
+        3.4
+    ]
+}

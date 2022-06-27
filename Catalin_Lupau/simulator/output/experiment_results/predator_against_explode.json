@@ -1,0 +1,25 @@
+{
+    "name": "predator_against_explode",
+    "timestamp": "06_18_2022-20_46_34",
+    "config_files": [
+        "predator_algorithm_against_explode/center_steering.json",
+        "predator_algorithm_against_explode/png.json"
+    ],
+    "names": [
+        "predator_algorithm_against_explode/center_steering",
+        "predator_algorithm_against_explode/png"
+    ],
+    "num_repetitions": 5,
+    "avg_agent_success": [
+        0.5333333333333333,
+        0.33333333333333337
+    ],
+    "avg_time": [
+        85.8,
+        87.8
+    ],
+    "avg_delta_time": [
+        9.0,
+        6.4
+    ]
+}

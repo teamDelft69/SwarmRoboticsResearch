@@ -1,0 +1,11 @@
+{
+    "name": "split_evasive_test",
+    "timestamp": "06_19_2022-00_55_49",
+    "associated_config_file": "predator_avoidance_against_center_steering/split_evasive.json",
+    "result": {
+        "num_agents": 6,
+        "num_agents_that_reached_targets": 6,
+        "delta_time_target": 5,
+        "total_time": 140
+    }
+}

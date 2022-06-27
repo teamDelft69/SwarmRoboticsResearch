@@ -1,0 +1,11 @@
+{
+    "name": "explosive",
+    "timestamp": "05_28_2022-16_31_39",
+    "associated_config_file": "explosive_steer_away_boids_with_projectiles.json",
+    "result": {
+        "num_agents": 6,
+        "num_agents_that_reached_targets": 0,
+        "delta_time_target": 0,
+        "total_time": 50
+    }
+}

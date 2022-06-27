@@ -1,0 +1,5 @@
+{
+  "simulation_config_files": ["predator_avoidance_against_center_steering/baseline.json", "predator_avoidance_against_center_steering/evasive.json", "predator_avoidance_against_center_steering/explode.json", "predator_avoidance_against_center_steering/explode_evasive.json", "predator_avoidance_against_center_steering/jump.json", "predator_avoidance_against_center_steering/split.json", "predator_avoidance_against_center_steering/split_evasive.json"],
+  "num_repetitions": 1000,
+  "saved_repetitions": [1, 3, 5, 7, 9]
+}

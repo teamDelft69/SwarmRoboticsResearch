@@ -1,0 +1,25 @@
+{
+    "name": "predator_against_jump",
+    "timestamp": "06_18_2022-20_46_44",
+    "config_files": [
+        "predator_algorithm_against_jump/center_steering.json",
+        "predator_algorithm_against_jump/png.json"
+    ],
+    "names": [
+        "predator_algorithm_against_jump/center_steering",
+        "predator_algorithm_against_jump/png"
+    ],
+    "num_repetitions": 5,
+    "avg_agent_success": [
+        0.36666666666666664,
+        0.36666666666666664
+    ],
+    "avg_time": [
+        77.8,
+        83.6
+    ],
+    "avg_delta_time": [
+        1.8,
+        3.0
+    ]
+}

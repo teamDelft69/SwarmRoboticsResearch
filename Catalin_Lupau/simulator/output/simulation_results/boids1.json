@@ -1,0 +1,11 @@
+{
+    "name": "boids1",
+    "timestamp": "05_20_2022-12_47_27",
+    "associated_config_file": "boids1.json",
+    "result": {
+        "num_agents": 3,
+        "num_agents_that_reached_targets": 1,
+        "delta_time_target": 0,
+        "total_time": 1000
+    }
+}

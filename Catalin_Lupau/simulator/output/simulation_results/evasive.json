@@ -1,0 +1,11 @@
+{
+    "name": "evasive",
+    "timestamp": "05_28_2022-20_05_16",
+    "associated_config_file": "evasive_boids_with_projectiles.json",
+    "result": {
+        "num_agents": 6,
+        "num_agents_that_reached_targets": 2,
+        "delta_time_target": 13,
+        "total_time": 84
+    }
+}

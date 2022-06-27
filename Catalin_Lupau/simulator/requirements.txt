@@ -1,0 +1,5 @@
+pathfinding==1.0.1 
+tqdm==4.64.0
+pygad==2.16.1
+kmeans==1.0.2
+kneed==0.7.0

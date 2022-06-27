@@ -1,0 +1,11 @@
+{
+    "name": "outwards_field",
+    "timestamp": "06_18_2022-16_22_46",
+    "associated_config_file": "obstacle_avoidance_10/outwards_field.json",
+    "result": {
+        "num_agents": 6,
+        "num_agents_that_reached_targets": 6,
+        "delta_time_target": 8,
+        "total_time": 76
+    }
+}

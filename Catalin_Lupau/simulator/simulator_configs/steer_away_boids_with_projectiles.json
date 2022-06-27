@@ -1,0 +1,39 @@
+{
+  "delta_time": 1,
+  "max_ticks": 1000,
+  "target_delta_time": 1,
+  "map_structure": {
+    "map_height": 50,
+    "safe_area_width": 30,
+    "danger_area_width": 70
+  },
+  "agent": {
+    "swarm_distance": 3,
+    "agent_size": 0.5,
+    "agent_acc_limit": 1,
+    "agent_perception_distance": 5,
+    "num_agents": 6,
+    "agent_generator_name": "steer_away_boids"
+  },
+  "obstacle": {
+    "obstacle_min_size": 1,
+    "obstacle_max_size": 2,
+    "num_obstacles": 10,
+    "obstacle_generator_name": "basic"
+  },
+  "projectile": {
+    "swarm_distance": 3,
+    "projectile_size": 0.25,
+    "projectile_acc_limit": 1,
+    "projectile_perception_distance": 5,
+    "num_projectiles": 12,
+    "projectile_generator_name": "boids"
+  },
+  "target_area": {
+    "position": [
+      10,
+      25
+    ],
+    "size": 4
+  }
+}

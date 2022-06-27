@@ -1,0 +1,25 @@
+{
+    "name": "predator_against_evasive",
+    "timestamp": "06_18_2022-20_46_24",
+    "config_files": [
+        "predator_algorithm_against_evasive/center_steering.json",
+        "predator_algorithm_against_evasive/png.json"
+    ],
+    "names": [
+        "predator_algorithm_against_evasive/center_steering",
+        "predator_algorithm_against_evasive/png"
+    ],
+    "num_repetitions": 5,
+    "avg_agent_success": [
+        0.36666666666666664,
+        0.33333333333333337
+    ],
+    "avg_time": [
+        101.0,
+        88.6
+    ],
+    "avg_delta_time": [
+        1.4,
+        6.4
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "name": "png_projectiles",
+    "timestamp": "06_07_2022-15_15_45",
+    "associated_config_file": "png_projectiles.json",
+    "result": {
+        "num_agents": 6,
+        "num_agents_that_reached_targets": 3,
+        "delta_time_target": 4,
+        "total_time": 82
+    }
+}

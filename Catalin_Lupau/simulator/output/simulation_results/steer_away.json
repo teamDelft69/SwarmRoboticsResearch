@@ -1,0 +1,11 @@
+{
+    "name": "steer_away",
+    "timestamp": "05_27_2022-21_21_15",
+    "associated_config_file": "steer_away_boids_obstacles.json",
+    "result": {
+        "num_agents": 6,
+        "num_agents_that_reached_targets": 6,
+        "delta_time_target": 7,
+        "total_time": 74
+    }
+}

@@ -1,0 +1,5 @@
+{
+  "simulation_config_files": ["boids_obstacles.json", "boids_with_projectiles.json"],
+  "num_repetitions": 5,
+  "saved_repetitions": [4, 5]
+}

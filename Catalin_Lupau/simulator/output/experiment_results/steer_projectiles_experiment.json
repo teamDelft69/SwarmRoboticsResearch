@@ -1,0 +1,25 @@
+{
+    "name": "steer_projectiles_experiment",
+    "timestamp": "05_27_2022-22_51_07",
+    "config_files": [
+        "steer_away_boids_obstacles.json",
+        "steer_away_boids_with_projectiles.json"
+    ],
+    "names": [
+        "steer_away_boids_obstacles",
+        "steer_away_boids_with_projectiles"
+    ],
+    "num_repetitions": 100,
+    "avg_agent_success": [
+        0.7683333333333331,
+        0.4850000000000001
+    ],
+    "avg_time": [
+        74.5,
+        72.24
+    ],
+    "avg_delta_time": [
+        6.0,
+        3.31
+    ]
+}

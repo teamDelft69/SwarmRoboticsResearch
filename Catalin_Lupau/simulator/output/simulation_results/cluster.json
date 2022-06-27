@@ -1,0 +1,11 @@
+{
+    "name": "cluster",
+    "timestamp": "06_09_2022-20_41_26",
+    "associated_config_file": "clustering_projectiles.json",
+    "result": {
+        "num_agents": 6,
+        "num_agents_that_reached_targets": 3,
+        "delta_time_target": 3,
+        "total_time": 94
+    }
+}

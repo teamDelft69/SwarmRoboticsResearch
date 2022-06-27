@@ -1,0 +1,11 @@
+{
+    "name": "directed_whirlwind",
+    "timestamp": "06_07_2022-11_31_56",
+    "associated_config_file": "directed_whirlwind_boids.json",
+    "result": {
+        "num_agents": 6,
+        "num_agents_that_reached_targets": 6,
+        "delta_time_target": 23,
+        "total_time": 114
+    }
+}

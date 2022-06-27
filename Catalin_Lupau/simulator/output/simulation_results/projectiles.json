@@ -1,0 +1,11 @@
+{
+    "name": "projectiles",
+    "timestamp": "05_26_2022-17_20_35",
+    "associated_config_file": "boids_with_projectiles.json",
+    "result": {
+        "num_agents": 6,
+        "num_agents_that_reached_targets": 1,
+        "delta_time_target": 0,
+        "total_time": 82
+    }
+}

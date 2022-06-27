@@ -1,0 +1,11 @@
+{
+    "name": "directed_spiral_field1",
+    "timestamp": "06_18_2022-18_25_15",
+    "associated_config_file": "obstacle_avoidance_10/outwards_field.json",
+    "result": {
+        "num_agents": 6,
+        "num_agents_that_reached_targets": 5,
+        "delta_time_target": 5,
+        "total_time": 74
+    }
+}

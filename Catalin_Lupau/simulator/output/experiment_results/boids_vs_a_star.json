@@ -1,0 +1,25 @@
+{
+    "name": "boids_vs_a_star",
+    "timestamp": "05_27_2022-16_10_28",
+    "config_files": [
+        "boids_obstacles.json",
+        "a_star_boids_obstacles.json"
+    ],
+    "names": [
+        "boids_obstacles",
+        "a_star_boids_obstacles"
+    ],
+    "num_repetitions": 5,
+    "avg_agent_success": [
+        0.6666666666666667,
+        0.5666666666666667
+    ],
+    "avg_time": [
+        78.0,
+        838.2
+    ],
+    "avg_delta_time": [
+        4.8,
+        256.8
+    ]
+}

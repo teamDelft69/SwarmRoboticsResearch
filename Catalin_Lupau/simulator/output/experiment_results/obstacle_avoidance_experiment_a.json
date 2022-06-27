@@ -1,0 +1,45 @@
+{
+    "name": "obstacle_avoidance_experiment_a",
+    "timestamp": "06_18_2022-16_33_44",
+    "config_files": [
+        "obstacle_avoidance_10/baseline.json",
+        "obstacle_avoidance_10/outwards_field.json",
+        "obstacle_avoidance_10/spiral_field.json",
+        "obstacle_avoidance_10/directed_spiral_field.json",
+        "obstacle_avoidance_10/steer_away.json",
+        "obstacle_avoidance_10/kitchensink.json"
+    ],
+    "names": [
+        "obstacle_avoidance_10/baseline",
+        "obstacle_avoidance_10/outwards_field",
+        "obstacle_avoidance_10/spiral_field",
+        "obstacle_avoidance_10/directed_spiral_field",
+        "obstacle_avoidance_10/steer_away",
+        "obstacle_avoidance_10/kitchensink"
+    ],
+    "num_repetitions": 100,
+    "avg_agent_success": [
+        0.4166666666666666,
+        0.88,
+        0.9233333333333335,
+        0.9016666666666666,
+        0.868333333333333,
+        0.9666666666666667
+    ],
+    "avg_time": [
+        65.19,
+        79.61,
+        95.58,
+        94.61,
+        77.92,
+        87.19
+    ],
+    "avg_delta_time": [
+        2.6,
+        6.69,
+        12.3,
+        12.38,
+        8.05,
+        10.78
+    ]
+}

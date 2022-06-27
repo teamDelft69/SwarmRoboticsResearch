@@ -1,0 +1,5 @@
+{
+  "simulation_config_files": ["predator_algorithm_against_baseline/center_steering.json", "predator_algorithm_against_baseline/png.json"],
+  "num_repetitions": 5,
+  "saved_repetitions": [5]
+}

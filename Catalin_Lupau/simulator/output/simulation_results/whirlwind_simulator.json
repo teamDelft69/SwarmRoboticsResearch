@@ -1,0 +1,11 @@
+{
+    "name": "whirlwind_simulator",
+    "timestamp": "06_07_2022-10_42_57",
+    "associated_config_file": "whirwind_boids.json",
+    "result": {
+        "num_agents": 6,
+        "num_agents_that_reached_targets": 0,
+        "delta_time_target": 0,
+        "total_time": 150
+    }
+}

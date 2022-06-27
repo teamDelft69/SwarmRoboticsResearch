@@ -1,0 +1,11 @@
+{
+    "name": "boids_obstacles",
+    "timestamp": "05_20_2022-13_20_32",
+    "associated_config_file": "boids_obstacles.json",
+    "result": {
+        "num_agents": 6,
+        "num_agents_that_reached_targets": 3,
+        "delta_time_target": 3,
+        "total_time": 74
+    }
+}
